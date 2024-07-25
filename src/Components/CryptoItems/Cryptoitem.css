@@ -1,0 +1,28 @@
+.crypto-item {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    border-bottom: 1px solid #d3d3d3;
+  }
+  
+  .crypto-logo {
+    width: 50px;
+    height: 50px;
+    margin-right: 20px;
+  }
+  
+  .crypto-info {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .crypto-name {
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+  }
+  
+  .crypto-value {
+    font-family: 'Roboto', sans-serif;
+    color: #8e8e8e;
+  }
+  
